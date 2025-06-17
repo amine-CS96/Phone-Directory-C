@@ -1,5 +1,5 @@
 
-# Phone-Directory-C
+# Phone Directory — Console-Based Contact Management System in C
 
 This C program is a command-line application that manages a phone directory. It allows users to add, search, modify, display, and delete contacts stored dynamically. The contacts are managed using a dynamic array or linked list, practicing dynamic memory allocation and modular programming with separate source and header files.
 

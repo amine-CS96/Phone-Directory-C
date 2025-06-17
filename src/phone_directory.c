@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "include/directory.h"
+#include "include/phone_directory.h"
 #define TMAX 100
 
 int i =0 ;

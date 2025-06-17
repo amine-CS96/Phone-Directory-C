@@ -119,14 +119,11 @@ Contact 2:
 
 ---
 
-## Author
-
-*Amine El Harrab*
-
----
-
 ## License
 
-This project is open-source and free to use.
+This project is licensed under the MIT License — you are free to use, copy, modify, merge, publish, and distribute the software, provided that the original author is credited and the license notice is included in all copies or substantial portions of the software.
+
+See the [LICENSE](LICENSE) file for full details.
+
 
 ---

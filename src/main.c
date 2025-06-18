@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "include/phone_directory.h"
+#include "../include/phone_directory.h"
 int main()
 {
 personne *rep=init_rep();
